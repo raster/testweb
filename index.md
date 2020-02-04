@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/raster/testweb/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Well, it sort of works...
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing (sigh). It includes conventions for
