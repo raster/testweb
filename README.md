@@ -1,11 +1,3 @@
-# testweb
+# TestWeb
 
-testweb
-
-That's it.
-
-That's the README
-
----
-
-And more!
+This is just a testing groung for publishing a web site with GitHub Pages using Markdown.
