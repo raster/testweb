@@ -12,3 +12,5 @@ Stuff goes here, and stuff goes there...
 **Bold** and _Italic_ and `Code` text, blah blah
 
 [RasterWeb!](http://rasterweb.net/)
+
+![RasterWeb!](http://rasterweb.net/raster/images/rasterweb64.png)
