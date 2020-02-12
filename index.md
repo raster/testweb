@@ -9,7 +9,7 @@ Stuff goes here, and stuff goes there...
   * are
   * easy
 
-**Bold** and _Italic_ and `Code` text, blah blah
+**Bold** and _Italic_ and `Code` text, blah blah ~~yeah, okay~~
 
 ---
 
