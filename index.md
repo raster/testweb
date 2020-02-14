@@ -9,11 +9,17 @@ Stuff goes here, and stuff goes there...
   * are
   * easy
 
-**Bold** and _Italic_ and `Code` text, blah blah
+**Bold** and _Italic_ and `Code` text, blah blah ~~yeah, okay~~
+
+---
 
 [RasterWeb!](http://rasterweb.net/)
 
+---
+
 ![RasterWeb!](http://rasterweb.net/raster/images/rasterweb64.png)
+
+---
 
 [![RasterWeb!](http://rasterweb.net/raster/images/rasterweb64.png)](http://rasterweb.net/)
 
@@ -21,5 +27,6 @@ Stuff goes here, and stuff goes there...
 * Items
 * With
 * Bullets
+
 
 ---
