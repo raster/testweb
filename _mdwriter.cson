@@ -246,6 +246,7 @@ foldInlineLinks: false
 
 # Template variables is a key-value map used in template string
 templateVariables:
-  # Bullet for unordered list. add ulBullet1, ulBullet2 if you want different bullet for nested list
-  # https://github.com/zhuochun/md-writer/wiki/Settings#use-different-unorder-list
-  ulBullet: "*"
+# Bullet for unordered list. add ulBullet1, ulBullet2 if you want different bullet for nested list
+# https://github.com/zhuochun/md-writer/wiki/Settings#use-different-unorder-list
+ulBullet: "*"
+

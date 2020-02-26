@@ -19,8 +19,6 @@ Stuff goes here, and stuff goes there...
 
 ![RasterWeb!](http://rasterweb.net/raster/images/rasterweb64.png)
 
----
-
 [![RasterWeb!](http://rasterweb.net/raster/images/rasterweb64.png)](http://rasterweb.net/)
 
 * List
@@ -28,9 +26,11 @@ Stuff goes here, and stuff goes there...
 * With
 * Bullets
 
+- List
+- Items
+- With
+- Dashes
 
----
 
-Testing GD
 
 ---
